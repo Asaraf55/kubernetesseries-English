@@ -29,8 +29,8 @@ WORKDIR /app
 CMD ["node","index.js"]
 
 
-docker image build -t hello:v0.1 .
-
+docker fayas valuga 
+docker fayas fayas
 docker container run hello:v0.1
 
 
